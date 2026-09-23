@@ -1,0 +1,6 @@
+{
+  "name": "flo",
+  "description": "Portfolio sharing and real-time collaboration platform for creative photographers and videographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
